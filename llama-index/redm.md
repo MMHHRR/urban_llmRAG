@@ -1,5 +1,5 @@
 ## This is basic knowledge of llama-index RAG
-![image](https://github.com/MMHHRR/urban_llmRAG/assets/108106537/72b8306a-c5a2-48df-b0c9-7161544da502)<img src="" width="80%" height="80%">
+<img src="![image](https://github.com/MMHHRR/urban_llmRAG/assets/108106537/72b8306a-c5a2-48df-b0c9-7161544da502)" width="80%" height="80%">
 ### 1.loading
 basic knowledge about llama-index core(documents-->nodes):  
 - document load and construction  
